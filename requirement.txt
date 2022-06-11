@@ -1,0 +1,6 @@
+flask
+dotenv
+mysql-connector-python
+bcrypt
+eventlet
+gevent
